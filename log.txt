@@ -1,0 +1,5 @@
+INFO User logged in
+ERROR File not found
+INFO User logged in
+WARNING Low memory
+ERROR File not found

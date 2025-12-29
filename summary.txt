@@ -1,0 +1,28 @@
+Summary Of the LOG FILE
+-------------------------
+
+
+The counts of level are mentioned below
+
+ERROR :     2
+INFO :      2
+WARNING :   1
+
+
+The counts of message are mentioned below
+
+File not found :   2
+Low memory :       1
+User logged in :   2
+
+
+SHORT SUMMARY BASED ON ITERATIONS:-
+
+MOST FREQUENT LEVEL SEEN: "ERROR", that occured 2 times
+MOST FREQUENT MESSAGE NOTICED WAS: "File not found", that occured 2 times
+
+
+ERROR faced for more than once, take actions accordingly.
+
+
+END OF SUMMARY
