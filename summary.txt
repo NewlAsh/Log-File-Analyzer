@@ -1,28 +1,54 @@
 Summary Of the LOG FILE
--------------------------
+-----------------------
+
+
+LOG TIME RANGE: 
+From:  2025-12-29 10:15:32
+To:  2025-12-29 10:55:33
 
 
 The counts of level are mentioned below
 
-ERROR :     2
-INFO :      2
-WARNING :   1
+ERROR :   2
+INFO :   5
+WARN :   3
 
 
 The counts of message are mentioned below
 
-File not found :   2
-Low memory :       1
+CPU temperature high :   1
+Database connection lost :   1
+Disk space low :   1
+Failed to load module :   1
+High memory usage :   1
+Scheduled backup completed :   1
 User logged in :   2
+User logged out :   1
+User updated profile :   1
 
 
 SHORT SUMMARY BASED ON ITERATIONS:-
 
-MOST FREQUENT LEVEL SEEN: "ERROR", that occured 2 times
-MOST FREQUENT MESSAGE NOTICED WAS: "File not found", that occured 2 times
+WARNINGS were shown and following are the timestamps:
+2025-12-29 10:17:45
+2025-12-29 10:30:05
+2025-12-29 10:50:42
+
+ERROR was shown and following are following timestamps:
+2025-12-29 10:20:01
+2025-12-29 10:40:18
+
+MOST FREQUENT LEVEL SEEN: "INFO", that occured 5 times
+MOST FREQUENT MESSAGE NOTICED WAS: "User logged in", that occured 2 times
 
 
 ERROR faced for more than once, take actions accordingly.
+
+WARNING was shown for the following reasons: 
+Disk space low
+High memory usage
+CPU temperature high
+
 
 
 END OF SUMMARY
